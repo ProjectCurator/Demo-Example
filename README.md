@@ -68,12 +68,12 @@ project/
 ├── frontend/                 # HTML
 ├── backend/                  # Исходный код
 ├── database/                 # БД
-│   └── schema.sql            # Запросы SQL
+│   └── schema.sql            # SQL-скрипты
 ├── docs/                     # Документация
 │   ├── database.md           # Описание БД
 │   ├── architecture.md       # Описание архитектуры
 │   ├── er-diagram.png        # Схема БД
-│   └── images/               
+│   └── images/               # Скриншоты
 │       └── main-page.png
 ├── README.md
 └── .gitignore
