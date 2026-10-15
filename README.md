@@ -65,15 +65,15 @@
 
 ```text
 project/
-├── frontend/
-├── backend/
-├── database/
-│   └── schema.sql
-├── docs/
-│   ├── database.md
-│   ├── architecture.md
-│   ├── er-diagram.png
-│   └── images/
+├── frontend/                 # HTML
+├── backend/                  # Исходный код
+├── database/                 # БД
+│   └── schema.sql            # Запросы SQL
+├── docs/                     # Документация
+│   ├── database.md           # Описание БД
+│   ├── architecture.md       # Описание архитектуры
+│   ├── er-diagram.png        # Схема БД
+│   └── images/               
 │       └── main-page.png
 ├── README.md
 └── .gitignore
